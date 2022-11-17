@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My JobScheduler</string>
+    <string name="job_scheduled">Job Scheduled</string>
+    <string name="jobs_canceled">Jobs Canceled</string>
+    <string name="job_service">Job Service</string>
+    <string name="job_running">Your Job is running!</string>
+
+</resources>
